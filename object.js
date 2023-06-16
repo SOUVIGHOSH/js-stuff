@@ -62,3 +62,6 @@ let salary = {
 
 console.log("My Salary is " + salary);
 console.log(salary * 10);
+console.log(typeof Infinity);
+
+console.log(1_00_00 === 1e4);
